@@ -497,7 +497,7 @@ margin-bottom: -20px;
   .container8{
     display: flex;
     flex-direction: column;
-    gap: 0.5rem;
+    gap: 2px;
     justify-content: center;
     align-items: center;
     
