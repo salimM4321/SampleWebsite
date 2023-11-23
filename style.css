@@ -705,6 +705,10 @@ text-align: center;
 .hed{
   font-size: 25px !important;
 }
+.smhed{
+    font-size: 25px !important;
+}
+  
 #men{
   font-size: 15px !important;
   line-height: 2rem !important;
