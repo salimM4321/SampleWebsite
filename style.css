@@ -292,7 +292,6 @@ text-align: center;
 margin-right: 200px;
 font-family: sans-serif;
 font-weight: bolder;
-font-size: 100;
 }
 .srcmysrc{
 width: 300px;
@@ -455,7 +454,7 @@ margin-top: 20px;
   margin-bottom: 5px;
 }
 
-@media (min-width:280px) and (max-width: 768px){
+@media (min-width:373px) and (max-width: 768px){
 
 
   .container{
@@ -705,17 +704,14 @@ text-align: center;
 .hed{
   font-size: 25px !important;
 }
-.smhed{
-    font-size: 25px !important;
-}
-  
+
 #men{
   font-size: 15px !important;
   line-height: 2rem !important;
 }
 
 } 
-@media screen and (max-width: 280px){
+@media screen and (max-width: 373px){
   .container{
     display:flex;
     align-items: center;
