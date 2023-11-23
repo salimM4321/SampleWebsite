@@ -454,7 +454,7 @@ margin-top: 20px;
   margin-bottom: 5px;
 }
 
-@media (min-width:373px) and (max-width: 768px){
+@media (min-width:390px) and (max-width: 768px){
 
 
   .container{
@@ -711,7 +711,7 @@ text-align: center;
 }
 
 } 
-@media screen and (max-width: 373px){
+@media screen and (max-width: 390px){
   .container{
     display:flex;
     align-items: center;
