@@ -455,8 +455,12 @@ margin-top: 20px;
   margin-bottom: 5px;
 }
 
+
 @media screen and (max-width: 768px){
 
+  #men{
+    font-size:17px !important;
+  }
 
   .container{
     display:flex;
