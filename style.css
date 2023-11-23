@@ -707,7 +707,7 @@ text-align: center;
 }
 #men{
   font-size: 15px !important;
-  line-height: 8px !important;
+  line-height: 2rem !important;
 }
 
 } 
@@ -726,7 +726,7 @@ text-align: center;
   }
   #men{
     font-size: 15px !important;
-    line-height: 8px !important;
+    line-height: 2rempx !important;
   }
   .container3{
     margin-top: 1rem;
@@ -897,8 +897,8 @@ flex-direction: column;
 .container5 {
   margin: auto;
   text-align: center;
-  font-size: 13px;
-  gap: 14px;
+  font-size: 11px;
+  gap: 12px;
   margin-bottom: 0.5rem !important;
 }
 
