@@ -454,7 +454,7 @@ margin-top: 20px;
   margin-bottom: 5px;
 }
 
-@media screen and (max-width: 768px){
+@media (min-width:373px) and (max-width: 768px){
 
 
   .container{
@@ -711,4 +711,266 @@ text-align: center;
 }
 
 } 
+@media screen and (max-width: 373px){
+  .container{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin:auto !important;
+    margin-left: 0;
+    margin-top: 20px;
+    height: 50px;   
+  }
+  .hed{
+    font-size: 25px !important;
+  }
+  #men{
+    font-size: 15px !important;
+    line-height: 2rempx !important;
+  }
+  .container3{
+    margin-top: 1rem;
+  }
+  .container2{
+    font-size: 13px !important;
+  }
+  #Imgcontainer{
+    margin-top: 1rem !important;
+  }
+  .container4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bolder;
+    align-items: center;
+  
+}
+.srcmysrc {
+  margin: auto;
+  width: 200px;
+  height: 208px;
+  margin-left: 0rem;
+  border-radius: 5px;
+  margin-top: 8px;
+}
+.countdown-item {
+  border: 3px solid black;
+  width: 42px !important;
+  height: 45px;
+  border-radius: 10px;
+  font-weight: bolder;
+  color: yellow;
+  background-color: grey;
+  font-size: 19px !important;
+}
+  .container4{
+  font-size: 15px; 
+  text-align: center;
+}
+.contain{
+  font-size: 15px;
+}
+.container2{
+  font-size: 15px;
+}
+.mycls{
+  color: black;
+}
 
+.container6{
+  margin: auto;
+  border: 2px solid black;
+  height: 300px;
+  width:200px;
+  display: flex;
+  background-color: #FFFFFF;
+  border-radius: 5px;
+  flex-direction: column;
+
+
+}
+.container7{
+  font-family: Open Sans, sans-serif;
+  font-weight: 900;
+  font-size: 11px;
+  color: #FFFFFF;
+  text-align: center;  
+}
+
+.Item1{
+  width: 200px;
+  height: 200px;
+  background-color:grey;
+  border-radius: 5px;
+  margin-top: 10px;
+
+}
+
+.container8{
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  justify-content: center;
+  align-items: center;
+  
+
+
+}
+
+.container9{
+margin-top: -10px;
+text-align: center;
+font-family: "Source Sans Pro", sans-serif;
+font-weight: 50;
+font-size: 1.2rem;
+color: rgb(24, 27, 49)
+
+
+
+}
+.maincontainer3{
+margin-top:  10px; ;
+}
+
+.container9{
+  font-size: 11px !important;
+display: flex;
+flex-direction: column;
+gap: 1rem;
+justify-content: center;
+align-items: center;
+
+}
+.hed{
+  font-size: 20px;
+}
+.target{
+  font-size: 24px;
+}
+.ujlaclr {
+  font-size: 33px !important;
+}
+.pilaclr{
+  font-size: 33px !important;
+}
+.content{
+width: 200px;
+height: 350px;
+background-color: #FFFFFF;
+border-radius: 5px;
+}
+
+.maincontainer4{
+display: flex;
+flex-direction: column;
+gap: 2rem;
+background-color: azure;
+/* justify-content: center; */
+/* align-items: center; */
+}
+.container11{
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container12{
+text-align: center;
+margin-right: 0px;
+font-family: sans-serif;
+font-weight: bolder;
+margin-bottom: 62px;
+line-height: 2rem;
+}
+.container14{
+display: flex;
+gap: 2px;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+
+
+}
+.container5 {
+  margin: auto;
+  text-align: center;
+  font-size: 11px;
+  gap: 12px;
+  margin-bottom: 0.5rem !important;
+}
+
+.container15{
+display: flex;
+gap: 2px;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+
+.container16{
+display: flex;
+gap:  2px;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+
+.box1{
+width: 200px;
+height: 200px;
+background-color:#b9b3b3;
+border-radius: 5px;
+margin-top: 5px;
+margin-bottom: 5px;
+margin-top: 1px;
+
+
+
+}
+
+.box2{
+width: 200px;
+height: 200px;
+background-color:#b9b3b3;
+border-radius: 5px;
+margin-top: 5px;
+margin-bottom: 5px;
+margin-top: 1px;
+
+
+}
+
+.box3{
+width: 200px;
+height: 200px;
+background-color:#b9b3b3;
+border-radius: 5px;
+margin-top: 5px;
+margin-bottom: 5px;
+margin-top: 1px;
+display: flex;
+
+
+
+}
+
+.ftouch{
+font-family: Roboto, sans-serif;
+font-weight: 700;
+color: rgb(255, 255, 255);
+font-size: 15px;
+padding: 0;
+text-align: center;
+}
+.smhed{
+  margin-bottom: 20px;
+  font-size: 20px !important;
+}
+.head2{
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+}
