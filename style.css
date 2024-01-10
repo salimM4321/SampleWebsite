@@ -164,7 +164,7 @@ margin-bottom: 10px; /* Adjust this value for vertical spacing between items */
   margin: auto;
 border: 2px solid black;
 height: 100px;
-width:1000px;
+width:100%;
 display: flex;
 justify-content: center;
 align-items: center;
@@ -454,6 +454,8 @@ margin-top: 20px;
   margin-bottom: 5px;
 }
 
+
+
 @media (min-width:373px) and (max-width: 768px){
 
 
@@ -509,7 +511,7 @@ margin-top: 20px;
   margin: auto;
   border: 2px solid black;
   height: 300px;
-  width:300px;
+  width:100%;
   display: flex;
   background-color: #FFFFFF;
   border-radius: 5px;
@@ -783,7 +785,7 @@ text-align: center;
   margin: auto;
   border: 2px solid black;
   height: 300px;
-  width:200px;
+  width:100%;
   display: flex;
   background-color: #FFFFFF;
   border-radius: 5px;
