@@ -6,7 +6,7 @@
 body{
   width: 100%;
   height: 100%;
-   background-color: black; 
+  /* background-color: black; */
 }
 .web-maincontainer{
   background-color: black;
@@ -620,7 +620,7 @@ margin-top: 20px;
   }
   .container5{
     display: flex;
-    gap: 31px;
+    gap: 22px;
     font-size: 13px;
     justify-content: center;
     align-items: center;
@@ -635,7 +635,8 @@ margin-top: 20px;
     font-size: 17px;
   }
   .mycls{
-    font-size: 12px;
+    font-size: 1rem;
+    padding: 0  0.5rem;
   }
   .lr{
     font-size: 1.1rem;
@@ -647,16 +648,17 @@ margin-top: 20px;
     font-size: 1.4rem;
   }
   .countdown-item{
-    width: 58px;
-    height: 60px;
+    width: 56px;
+    height: 56px;
     border-radius: 10px;
     font-size: 1.5rem;
     font-weight: bold;
   }
-  .list{
-    font-size: 10px;
+  .list {
+    margin-top: 1rem;
+    font-size: 12px;
     padding-left: 13px;
-  }
+}
   .LearnImg{
     width: 300px;
   }
@@ -681,6 +683,7 @@ margin-top: 20px;
   .fonts{
     font-size: 19px;
     margin-bottom: 0.3rem;
+    padding: 0 2rem;
   }
   .gt{
     font-size: 1.2rem;
@@ -928,6 +931,8 @@ margin-top: 20px;
 .ftouch{
   font-size: 1rem;
 }
+
+
 
 
 }
