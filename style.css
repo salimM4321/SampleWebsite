@@ -450,6 +450,7 @@ margin-top: 20px;
   background-color: black;
   margin-bottom: 5px;
 }
+
 @media (min-width:768px) and (max-width: 1023px){
   .web-maincontainer{
     padding: 0.1px 0px;
@@ -620,7 +621,7 @@ margin-top: 20px;
   }
   .container5{
     display: flex;
-    gap: 22px;
+    gap: 0px;
     font-size: 13px;
     justify-content: center;
     align-items: center;
