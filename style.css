@@ -621,13 +621,16 @@ margin-top: 20px;
   }
   .container5{
     display: flex;
-    gap: 28px;
+    gap: 0px;
     font-size: 13px;
     justify-content: center;
     align-items: center;
     margin-left: 14px;
     font-weight: bolder;
     color: aliceblue;
+  }
+  .container52{
+    gap: 2rem !important;
   }
   .last{
     font-size: 17px;
